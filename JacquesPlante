@@ -1,0 +1,110 @@
+*A DAY IN THE LIFE OF A CONTROVERSIAL HASHTAG: #ShoutYourAbortion*
+
+*THE DATA SET*
+Arielle and I selected the #ShoutYourAbortion data set (between November 27 and December 3rd) because it was sure to be interesting. 
+Our full data set can be found at https://docs.google.com/spreadsheets/d/1I_gRGKSWB8vsA_f3mEAICkUgcUEm65P3rud2KeCFoYk/edit#gid=400689247
+
+*INITIAL OBJECTIVE*
+
+After learning that the “Shout Your Abortion” movement took hold by way of a hashtag (through research on a final project for a 
+different course), I looked it up on twitter. I was confused to find that the prominent content that day (in early November) 
+reflected aggressive opposition to pro-choice. As a result, I approached this data set assignment with two questions: 
+    1. What ratio of tweets using #ShoutYourAbortion maintain the pro-choice stance?
+    2. Is the use of aggressive rhetoric distinctive between pro-choice and pro-life tweets?
+
+*METHODOLOGY*
+
+I made use of two add-ons in the attempt to answer these questions: 
+    1. The “text analysis”-- “sentiment analysis” add-on labels selected data as subjective or objective, and as positive, 
+neutral or negative. 
+    2. The Gavagai Sentiments (GA) analysis scans selected data for levels of skepticism, love, hate, fear, desire and/or violence. 
+
+After running the FIRST TOOL, I realized that without understanding precisely how the results were determined, 
+I could be easily mislead. For example, a tweet is labeled “subjective” any time a first-person pronoun is used. 
+While this works for original posts, it becomes less reliable in the assessment of retweets. Moreover, in some cases, 
+due to abbreviated twitter language, pronouns are omitted: “2/2 &amp; have never looked back. Life=great.” For another 
+more nuanced example, a tweet is considered “negative” wherein it makes use of negations such as “wasn’t” “don’t” and “no.”  
+This form of analysis, while accurate in a grammatical sense, doesn’t speak to “sentiment,” as I understand it. 
+
+The results of the SECOND TOOL were also rather limited. It can run a small set of data at a time, and adding additional 
+data to other analysis results is difficult.  Also, GA doesn’t account for name-calling or profanity and searches, 
+like google’s text analysis, for single words instead of phrases. As a result hateful and/or violent expressions are overlooked. 
+
+    •	“To the brave ppl of #ShoutYourAbortion , keep up the good fight. To the trolls trying to shame them, fuck right off...”
+    •	“... hahahaha ok moron...We will still #ShoutYourAbortion and u can't stop us. Suck a bag of dicks...”
+    •	“I'm #thankful for #PlannedParenthood for keeping the black &amp; brown population in check. #UniteBlue...”
+
+*OBJECTIVE/METHODOLOGY SHIFT*
+
+Early into the data set analysis, I realized that tweets both for and against reproductive choice were equally prone 
+to being ‘subjective,’ ‘negative’ and/or using divisive or antagonistic rhetoric. Determining who was for and against 
+as well as evaluating communication styles requires a closer reading of a limited data set. I decided to focus on the 
+data set of a single day, November 28.th The day after the Colorado Planned Parenthood (PP) clinic shooting provoked a 
+decent quantity of interesting twitter activity. 
+
+*THE RESULTS*
+
+*"FOR"*
+
+On November 28th, #ShoutYourAbortion is used 201 times.  163 of these tweets are in support of abortion.  106 of these are 
+retweets most predominantly of three twitter accounts: @gogreen, @ProWomanChoice and @RyanCullen.  The @ProWomanChoice 
+tweets are almost explicitly about the PP shooting.  Within the 163 tweets/retweets 24 violence-related words are used.  
+13 of these uses are by way of retweet and of injustice-related words (placed in connection to women’s choices). 
+2 make reference to “rape,” and 6 are in reference to the shooting.  The remaining 3 words are directed at other twitter users.  
+1 of these is accusatory in nature: “...they're not "tiny humans." they're fetuses, nothing more. The women YOU violate and 
+kill are people though...” 2 are in direct mockery of anti-abortion replies. 
+
+Of the 201 total posts, 14 are identifiable as “positive” (2 of which, it ought to be noted, are made by tweeters who self-identify 
+as white supremacists). 44 individual words are categorized as “positive’, 18 of which are considered as such due to their use 
+(or reuse) of the word “win” within a tweet created by @RyanCullen90: “Don't like Abortion? Then don't have one.  Everyone wins. 
+Debate Over. Mind your own business. #ShoutYourAbortion.” 
+
+*"AGAINST"*
+
+Of the 22 tweets I interpreted as supporting the ‘anti-abortion’ stance, 13 are original.  @MeganSm970 creates 9 of these. 
+Although she is quite active on twitter and focuses primarily on anti-abortion arguments, she has only 172 followers.  
+Her posts are somewhat extreme, but seem to avoid the use of personal attack or overt intentions to offend.  
+She has, however, frequently been on the receiving end of such rhetorical approaches: “@MeganSm9707 Hi there, I just thought I’d 
+tell you now that I killed [an] embryo and would happily kill 1,000 more.” 
+
+Within the ‘anti-abortion’ list, only a handful is identifiable (through text analysis) as violent in sentiment. 
+They are determined as such, by the GA, due to their use of words like as “kill,” “trauma,” “victims,” “death” and the 
+very word itself, “violence.”  According to the textual analysis, 4 tweets are considered “negative,” due to words such as 
+“evil,” “vile,” “wrong” “ignorance” and “misstatement.” Only 4 of the ‘anti-abortion’ tweets reference the Colorado shootings. 
+@MeganSm9707 is the only tweeter to make use of  #ShoutYourAbortion to reject connections made between the PP shooting and the 
+anti-abortion movement. 
+
+What this data set did not show, but I was able to discover by following conversations directly on Twitter, was the 
+extremely aggressive interactions that, while starting as a heated debate, quickly became personal and unconstructive.  
+What the data also doesn’t show, is how many of these tweets are accompanied by violent images (the most extreme being a 
+picture of a gun pointing at an infant’s head). 
+
+*"OTHER"*
+
+Of the 201 tweets using #ShoutYourAbortion on November 28th, 5 are not easily categorized. According to the sentiment 
+analysis tool (#1), 2 of these are “neutral,” 2 are “positive,” and 1 is “negative.” None register within the GA. 
+Strangely, at a closer reading the “other” category is arguably where the most intense display of derisive rhetoric can be found. 
+As previously mentioned, two self-identify as white supremacists that celebrate abortion because, according to them, 
+it keeps the “brown population in check.” But perhaps the most interesting and perplexing of these tweeters is @hboulware.  
+She only shows up in this data set as using #ShoutYourAbortion once in a tweet that is mid-argument and responded to by 
+three anti-abortion tweeters using the same hashtag. The in media res tweet does not indicate her stance.  
+I looked up the account and discovered a journalist with 6432 followers that engaged, for multiple days, in steady exchange 
+of hateful and aggressive dialogue with people on both sides of the issue.  These include explicit name-calling and, quite frankly, 
+I was beginning to fear for her life.  On Dec 1, @dabears1973 sums it up her twitter feed quite effectively: 
+“I could be in Twitter 24/7 for the rest of my life and never attract 1/6 of the nut jobs @hboulware does in one day. #Bravo.” 
+This entire tirade, however, began on Nov 27, with her repetitive posts about how people were wrongfully 
+jumping to conclusions regarding Dear’s motivations (the PP shooter). By December 2nd, @hboulware announced that she would 
+be leaving twitter due to the intensity of negative exchange. (But, I looked back in on Dec 7th and she up and running 
+[in similar style] once again).
+
+*CONCLUSIONS*
+
+The higher than normal volume of tweets on November 28th (as well as the few days following) are due to the 
+Planned Parenthood shooting on the 27th.  Considering the timing, it is not surprising that those in support of abortion and 
+Planned Parenthood would dominate the use of #ShoutYourAbortion.  It is also understandable that, out of respect for the lives lost, 
+and the undesirability of being complicit to an act of terrorism, that many of those against reproductive choice would refrain 
+from using a pro-choice hashtag to counter the movement at this time. It also makes sense—all personal perspectives aside—that 
+the tweets against abortion would have the most grievous content because they are authored by those who are speaking out 
+against what they believe to be no less than the murder of babies. Furthermore, the “pro-life” tweeters that would use a 
+counter-stance hashtag to distribute tweets, are those which might be considered as aggressive communicators. 
+
